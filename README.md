@@ -14,3 +14,7 @@ To use Kali-Packlinium, simply run the following command:
 ```./Packlinium.sh```
 
 And enjoy.
+
+# Requirements
+- Apt package manager
+- Bash shell{comes in most linux distrubutions pre installed}
